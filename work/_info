@@ -1,0 +1,195 @@
+m255
+K3
+13
+cModel Technology
+Z0 dC:\Users\lgeoffri\Desktop\lab3 (2)\lab3
+vbooth
+Z1 !s100 ]93gf6<z1JA^B:mdD:N@J2
+Z2 In[9QHWBn?T8]o`L3KDH@g2
+Z3 V7?iUO51EaMd4hQAROZPLH2
+Z4 dC:\Users\louis\Documents\EEC 180B\lab5\radix 8
+Z5 w1488335575
+Z6 8C:/Users/louis/Documents/EEC 180B/lab5/radix 8/source/booth.v
+Z7 FC:/Users/louis/Documents/EEC 180B/lab5/radix 8/source/booth.v
+L0 1
+Z8 OV;L;10.1d;51
+r1
+31
+Z9 !s90 -reportprogress|300|-work|work|C:/Users/louis/Documents/EEC 180B/lab5/radix 8/source/booth.v|
+Z10 o-work work -O0
+Z11 !s108 1488339417.020000
+Z12 !s107 C:/Users/louis/Documents/EEC 180B/lab5/radix 8/source/booth.v|
+!i10b 1
+!s85 0
+!s101 -O0
+vbooth_board
+Z13 !s100 I;b42A^7?i:U^g_1?:jiV2
+Z14 I^^Y8cC4Cl7[o8YedkIB=P3
+Z15 VEjd4iB:[ji>RJ7=89hAY:3
+R4
+Z16 w1487178172
+Z17 8C:/Users/louis/Documents/EEC 180B/lab5/radix 8/source/booth_board.v
+Z18 FC:/Users/louis/Documents/EEC 180B/lab5/radix 8/source/booth_board.v
+L0 1
+R8
+r1
+31
+Z19 !s90 -reportprogress|300|-work|work|C:/Users/louis/Documents/EEC 180B/lab5/radix 8/source/booth_board.v|
+R10
+Z20 !s108 1488339417.253000
+Z21 !s107 C:/Users/louis/Documents/EEC 180B/lab5/radix 8/source/booth_board.v|
+!i10b 1
+!s85 0
+!s101 -O0
+vcounter
+Z22 !s100 _zhbf]i[Ah0O327ZXNCO`3
+Z23 INz]=P^RlKaO3N6BSTfND13
+Z24 VaCPIg1OH?AKUmbn:G=GK90
+R4
+Z25 w1487181876
+Z26 8C:/Users/louis/Documents/EEC 180B/lab5/radix 8/source/counter.v
+Z27 FC:/Users/louis/Documents/EEC 180B/lab5/radix 8/source/counter.v
+L0 4
+R8
+r1
+31
+Z28 !s90 -reportprogress|300|-work|work|C:/Users/louis/Documents/EEC 180B/lab5/radix 8/source/counter.v|
+R10
+Z29 !s108 1488339417.473000
+Z30 !s107 C:/Users/louis/Documents/EEC 180B/lab5/radix 8/source/counter.v|
+!i10b 1
+!s85 0
+!s101 -O0
+vhex_7seg
+Z31 !s100 J;oV@0cD`=:Pbkb_8oBgD0
+Z32 IKh^EPj]?cZWi?zgR`Q@@H3
+Z33 VGMLneXIcZ]j042QNO^=]I0
+R4
+R16
+Z34 8C:/Users/louis/Documents/EEC 180B/lab5/radix 8/source/hex_7_seg.v
+Z35 FC:/Users/louis/Documents/EEC 180B/lab5/radix 8/source/hex_7_seg.v
+L0 1
+R8
+r1
+31
+Z36 !s90 -reportprogress|300|-work|work|C:/Users/louis/Documents/EEC 180B/lab5/radix 8/source/hex_7_seg.v|
+R10
+Z37 !s108 1488339417.948000
+Z38 !s107 C:/Users/louis/Documents/EEC 180B/lab5/radix 8/source/hex_7_seg.v|
+!i10b 1
+!s85 0
+!s101 -O0
+vmem
+Z39 IK8hJW3gncZOl9am:fVQlD3
+Z40 Va2BD7P=JzL6mbIEP71Ilh0
+R4
+Z41 w1488339419
+Z42 8C:/Users/louis/Documents/EEC 180B/lab5/radix 8/source/mem.v
+Z43 FC:/Users/louis/Documents/EEC 180B/lab5/radix 8/source/mem.v
+L0 1
+R8
+r1
+31
+Z44 !s90 -reportprogress|300|-work|work|C:/Users/louis/Documents/EEC 180B/lab5/radix 8/source/mem.v|
+R10
+Z45 !s100 >WJUUBR=[K9Bj83mmm2QJ2
+Z46 !s108 1488339419.397000
+Z47 !s107 C:/Users/louis/Documents/EEC 180B/lab5/radix 8/source/mem.v|
+!i10b 1
+!s85 0
+!s101 -O0
+vmemblock
+Z48 !s100 BV5^Y^_=m6LBf?UZGPXSN0
+Z49 Ik9eVg?eT9Z^X2YcR>_Ue70
+Z50 V4VHQe[Lm8_4goA2ZX^EAI2
+R4
+Z51 w1487179888
+Z52 8C:/Users/louis/Documents/EEC 180B/lab5/radix 8/source/memblock.v
+Z53 FC:/Users/louis/Documents/EEC 180B/lab5/radix 8/source/memblock.v
+L0 1
+R8
+r1
+31
+Z54 !s90 -reportprogress|300|-work|work|C:/Users/louis/Documents/EEC 180B/lab5/radix 8/source/memblock.v|
+R10
+Z55 !s108 1488339419.664000
+Z56 !s107 C:/Users/louis/Documents/EEC 180B/lab5/radix 8/source/memblock.v|
+!i10b 1
+!s85 0
+!s101 -O0
+vmemory
+Z57 !s100 ;28715@9P5Ql:eU@ChTQR0
+Z58 IF>oo6F;:@KE<mk^A@3gU60
+Z59 V^med5Z:_0VF]ggmE=aFnZ2
+R4
+R16
+Z60 8C:/Users/louis/Documents/EEC 180B/lab5/radix 8/source/memory.v
+Z61 FC:/Users/louis/Documents/EEC 180B/lab5/radix 8/source/memory.v
+L0 3
+R8
+r1
+31
+Z62 !s90 -reportprogress|300|-work|work|C:/Users/louis/Documents/EEC 180B/lab5/radix 8/source/memory.v|
+R10
+Z63 !s108 1488339419.857000
+Z64 !s107 C:/Users/louis/Documents/EEC 180B/lab5/radix 8/source/memory.v|
+!i10b 1
+!s85 0
+!s101 -O0
+vmydff
+Z65 !s100 QlO<gfSCknWHih:J54>b72
+Z66 IJNG3kUO9?:?XcGO@NJFiL3
+Z67 VcAOT[mO=aYkAiAIO0CAH81
+R4
+R16
+Z68 8C:/Users/louis/Documents/EEC 180B/lab5/radix 8/source/dff.v
+Z69 FC:/Users/louis/Documents/EEC 180B/lab5/radix 8/source/dff.v
+L0 3
+R8
+r1
+31
+Z70 !s90 -reportprogress|300|-work|work|C:/Users/louis/Documents/EEC 180B/lab5/radix 8/source/dff.v|
+R10
+Z71 !s108 1488339417.683000
+Z72 !s107 C:/Users/louis/Documents/EEC 180B/lab5/radix 8/source/dff.v|
+!i10b 1
+!s85 0
+!s101 -O0
+vstate
+Z73 !s100 ]J1_Smd0`c9Mz7U3=ZmBA3
+Z74 I9[4;<IzjeHJGZ6kJUXRB=0
+Z75 V0NV]ie9<1iJ6ELIVCA1lb0
+R4
+Z76 w1488339400
+Z77 8C:/Users/louis/Documents/EEC 180B/lab5/radix 8/source/state.v
+Z78 FC:/Users/louis/Documents/EEC 180B/lab5/radix 8/source/state.v
+L0 1
+R8
+r1
+31
+Z79 !s90 -reportprogress|300|-work|work|C:/Users/louis/Documents/EEC 180B/lab5/radix 8/source/state.v|
+R10
+!i10b 1
+!s85 0
+Z80 !s108 1488339420.064000
+Z81 !s107 C:/Users/louis/Documents/EEC 180B/lab5/radix 8/source/state.v|
+!s101 -O0
+vtb_booth
+!i10b 1
+Z82 !s100 HNimkNgKGHaJV<F4f9STS2
+Z83 IbfZm^a2:SKOH`bk?af[?k0
+Z84 VDgX9S:H3j?9;:;OYZeGdf1
+R4
+Z85 w1488335440
+Z86 8C:/Users/louis/Documents/EEC 180B/lab5/radix 8/test_benches/tb_booth.v
+Z87 FC:/Users/louis/Documents/EEC 180B/lab5/radix 8/test_benches/tb_booth.v
+L0 1
+R8
+r1
+!s85 0
+31
+!s108 1488339420.258000
+!s107 C:/Users/louis/Documents/EEC 180B/lab5/radix 8/test_benches/tb_booth.v|
+Z88 !s90 -reportprogress|300|-work|work|C:/Users/louis/Documents/EEC 180B/lab5/radix 8/test_benches/tb_booth.v|
+!s101 -O0
+R10

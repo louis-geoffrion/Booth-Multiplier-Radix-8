@@ -1,0 +1,134 @@
+{C:/Users/louis/Documents/EEC 180B/lab5/radix 8/source/booth_board.v} {1 {vlog -work work {C:/Users/louis/Documents/EEC 180B/lab5/radix 8/source/booth_board.v}
+Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
+-- Compiling module booth_board
+
+Top level modules:
+	booth_board
+
+} {} {}} {C:/Users/lgeoffri/Desktop/lab3 (2)/lab3/source/dff.v} {1 {vlog -work work {C:/Users/lgeoffri/Desktop/lab3 (2)/lab3/source/dff.v}
+Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
+-- Compiling module mydff
+
+Top level modules:
+	mydff
+
+} {} {}} {C:/Users/lgeoffri/Desktop/lab3 (2)/lab3/source/counter.v} {1 {vlog -work work {C:/Users/lgeoffri/Desktop/lab3 (2)/lab3/source/counter.v}
+Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
+-- Compiling module counter
+
+Top level modules:
+	counter
+
+} {} {}} {C:/Users/lgeoffri/Desktop/lab3 (2)/lab3/source/state.v} {1 {vlog -work work {C:/Users/lgeoffri/Desktop/lab3 (2)/lab3/source/state.v}
+Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
+-- Compiling module state
+
+Top level modules:
+	state
+
+} {} {}} {C:/Users/louis/Documents/EEC 180B/lab5/radix 8/source/dff.v} {1 {vlog -work work {C:/Users/louis/Documents/EEC 180B/lab5/radix 8/source/dff.v}
+Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
+-- Compiling module mydff
+
+Top level modules:
+	mydff
+
+} {} {}} {C:/Users/louis/Documents/EEC 180B/lab5/radix 8/source/counter.v} {1 {vlog -work work {C:/Users/louis/Documents/EEC 180B/lab5/radix 8/source/counter.v}
+Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
+-- Compiling module counter
+
+Top level modules:
+	counter
+
+} {} {}} {C:/Users/lgeoffri/Desktop/lab3 (2)/lab3/source/memblock.v} {1 {vlog -work work {C:/Users/lgeoffri/Desktop/lab3 (2)/lab3/source/memblock.v}
+Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
+-- Compiling module memblock
+
+Top level modules:
+	memblock
+
+} {} {}} {C:/Users/louis/Documents/EEC 180B/lab5/radix 8/source/state.v} {1 {vlog -work work {C:/Users/louis/Documents/EEC 180B/lab5/radix 8/source/state.v}
+Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
+-- Compiling module state
+
+Top level modules:
+	state
+
+} {} {}} {C:/Users/louis/Documents/EEC 180B/lab5/radix 8/source/memblock.v} {1 {vlog -work work {C:/Users/louis/Documents/EEC 180B/lab5/radix 8/source/memblock.v}
+Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
+-- Compiling module memblock
+
+Top level modules:
+	memblock
+
+} {} {}} {C:/Users/lgeoffri/Desktop/lab3 (2)/lab3/source/booth.v} {1 {vlog -work work {C:/Users/lgeoffri/Desktop/lab3 (2)/lab3/source/booth.v}
+Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
+-- Compiling module booth
+
+Top level modules:
+	booth
+
+} {} {}} {C:/Users/louis/Documents/EEC 180B/lab5/radix 8/source/booth.v} {1 {vlog -work work {C:/Users/louis/Documents/EEC 180B/lab5/radix 8/source/booth.v}
+Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
+-- Compiling module booth
+
+Top level modules:
+	booth
+
+} {} {}} {C:/Users/lgeoffri/Desktop/lab3 (2)/lab3/test_benches/tb_booth.v} {1 {vlog -work work {C:/Users/lgeoffri/Desktop/lab3 (2)/lab3/test_benches/tb_booth.v}
+Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
+-- Compiling module tb_booth
+
+Top level modules:
+	tb_booth
+
+} {} {}} {C:/Users/lgeoffri/Desktop/lab3 (2)/lab3/source/memory.v} {1 {vlog -work work {C:/Users/lgeoffri/Desktop/lab3 (2)/lab3/source/memory.v}
+Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
+-- Compiling module memory
+
+Top level modules:
+	memory
+
+} {} {}} {C:/Users/lgeoffri/Desktop/lab3 (2)/lab3/source/hex_7_seg.v} {1 {vlog -work work {C:/Users/lgeoffri/Desktop/lab3 (2)/lab3/source/hex_7_seg.v}
+Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
+-- Compiling module hex_7seg
+
+Top level modules:
+	hex_7seg
+
+} {} {}} {C:/Users/louis/Documents/EEC 180B/lab5/radix 8/test_benches/tb_booth.v} {1 {vlog -work work {C:/Users/louis/Documents/EEC 180B/lab5/radix 8/test_benches/tb_booth.v}
+Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
+-- Compiling module tb_booth
+
+Top level modules:
+	tb_booth
+
+} {} {}} {C:/Users/louis/Documents/EEC 180B/lab5/radix 8/source/mem.v} {1 {vlog -work work {C:/Users/louis/Documents/EEC 180B/lab5/radix 8/source/mem.v}
+Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
+-- Compiling module mem
+
+Top level modules:
+	mem
+
+} {} {}} {C:/Users/lgeoffri/Desktop/lab3 (2)/lab3/source/booth_board.v} {1 {vlog -work work {C:/Users/lgeoffri/Desktop/lab3 (2)/lab3/source/booth_board.v}
+Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
+-- Compiling module booth_board
+
+Top level modules:
+	booth_board
+
+} {} {}} {C:/Users/louis/Documents/EEC 180B/lab5/radix 8/source/hex_7_seg.v} {1 {vlog -work work {C:/Users/louis/Documents/EEC 180B/lab5/radix 8/source/hex_7_seg.v}
+Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
+-- Compiling module hex_7seg
+
+Top level modules:
+	hex_7seg
+
+} {} {}} {C:/Users/louis/Documents/EEC 180B/lab5/radix 8/source/memory.v} {1 {vlog -work work {C:/Users/louis/Documents/EEC 180B/lab5/radix 8/source/memory.v}
+Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
+-- Compiling module memory
+
+Top level modules:
+	memory
+
+} {} {}}
