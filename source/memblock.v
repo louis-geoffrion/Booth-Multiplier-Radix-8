@@ -1,3 +1,12 @@
+//////////////////////////////////////////
+// A block of 3 addressable memory slots
+//
+// Accomodates memory of N bits
+// Accessable by M_Sel input
+// Write enable by Enable inputs
+//
+//////////////////////////////////////////
+
 module memblock(
    A_In,
    B_In,
@@ -10,17 +19,21 @@ module memblock(
    C_Out,
    Clock
 );
+
 parameter N = 8;
+
 input [N:0] A_In;
 input [N:0] B_In;
 input [N:0] C_In;
 input A_En;
 input B_En;
 input C_En;
+input Clock;
+
 output [N:0] A_Out;
 output [N:0] B_Out;
 output [N:0] C_Out;
-input Clock;
+
 reg [3:0] Addr = 4'd0;
 reg M_Sel = 1'b0;
 
@@ -33,7 +46,9 @@ reg M_Sel = 1'b0;
        .Data1_O(A_Out),
        .Data2_O()
    );
+
    defparam A.DATA_WIDTH = N+1;
+
    memory B (
        .Addr(Addr),
        .Data_In(B_In),
@@ -43,7 +58,9 @@ reg M_Sel = 1'b0;
        .Data1_O(B_Out),
        .Data2_O()
    );
+
    defparam B.DATA_WIDTH = N+1;
+
    memory C (
        .Addr(Addr),
        .Data_In(C_In),
@@ -53,5 +70,7 @@ reg M_Sel = 1'b0;
        .Data1_O(C_Out),
        .Data2_O()
    );
+
    defparam C.DATA_WIDTH = N+1;
+
 endmodule

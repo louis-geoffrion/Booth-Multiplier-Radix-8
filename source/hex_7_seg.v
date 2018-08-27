@@ -1,7 +1,11 @@
+// Programatic encoder for onboard seven segment number display
 module hex_7seg(w,seg);
+
 input [3:0] w;
 output [0:6] seg;
+
 wire a0,a1,a2,a3,a4,a5,a6,a7,a8,a9,A,B,C,D,E,F;
+
 assign a0= (~w[3]&~w[2]&~w[1]&~w[0]);
 assign a1= (~w[3]&~w[2]&~w[1]&w[0]);
 assign a2= (~w[3]&~w[2]&w[1]&~w[0]);

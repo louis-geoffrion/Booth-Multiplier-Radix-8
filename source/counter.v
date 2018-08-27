@@ -7,6 +7,7 @@ module counter (
     resetn,
     count,
     done);
+
 parameter n=4, max=3;
 input en;
 input clk;

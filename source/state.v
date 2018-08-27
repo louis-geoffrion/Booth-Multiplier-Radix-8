@@ -1,3 +1,13 @@
+//////////////////////////////////////////////////////////////////////////////////
+// State Machine controller 
+//
+// This controller reads the contents of memory and sends a signal to perform 
+// calculations based on contents of memory. These actions are required to 
+// implement Booths algorithm for multiplication. 
+//
+// Si line carries operation signal to which is encoded in params below
+// B contains first 4 bits of memory. needed for decision making
+//////////////////////////////////////////////////////////////////////////////////
 module state(
     B,
     Done,
@@ -7,32 +17,40 @@ module state(
     Count,
     Resetn
 );
+
 input [3:0] B;
 input Done;
 input Start;
 input Clock;
 input Resetn;
+
 output reg [3:0] Si;
 output reg Count = 1'b0;
+
 localparam S1 = 2'b00;
 localparam S2 = 2'b01;
 localparam S3 = 2'b10;
 
 reg [1:0] Next = 2'b01;
 wire [1:0] State;
+
 initial Next = S1;
+
 mydff s0 (
     .d(Next[0]),
     .q(State[0]),
     .clk(Clock),
     .resetn(Resetn)
 );
+
 mydff s1 (
     .d(Next[1]),
     .q(State[1]),
     .clk(Clock),
     .resetn(Resetn)
 );
+
+// Signal encoding
 localparam Add = 4'b0001;
 localparam Addc = 4'b0010;
 localparam Load = 4'b0011;
@@ -43,6 +61,7 @@ localparam Add3M = 4'b0111;
 localparam Add4M = 4'b0111;
 localparam Sub3M = 4'b1000;
 localparam Sub4M = 4'b1001;
+
 always @(*) begin
     Count = 1'b0;
     Si = 3'b000;
